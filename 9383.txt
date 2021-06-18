@@ -1,0 +1,23 @@
+			Welcome Webcode Reatil
+
+ Bill Number : 9383
+ Customer Name : Faruq Hossain
+ Phone Number : 01729991421
+
+============================================================
+ Products			QTY			Price
+============================================================
+ Bath Soap			5			200
+ Spray			5			900
+ Haircut			5			250
+ Food Oil			5			900
+ Tea			5			750
+ Frooti			5			250
+ Limca			5			200
+ MOjo			5			200
+------------------------------------------------------------
+ Cosmetic Tax						TK. 67.5
+ Grocery Tax						TK. 165.0
+ Cold Drink Tax						TK. 32.5
+ Total Bill : 						 TK.3915.0
+------------------------------------------------------------

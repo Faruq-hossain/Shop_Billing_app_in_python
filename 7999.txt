@@ -1,0 +1,21 @@
+			Welcome Webcode Reatil
+
+ Bill Number : 7999
+ Customer Name : faruq
+ Phone Number : 01729991421
+
+============================================================
+ Products			QTY			Price
+============================================================
+ Bath Soap			4			160
+ Face cream			4			480
+ Face Wash			4			240
+ Spray			5			900
+ Hair Gell			5			700
+ Body Loshan			5			900
+ Haircut			5			250
+ Powder			5			400
+------------------------------------------------------------
+ Cosmetic Tax						TK. 201.5
+ Total Bill : 						 TK.4231.5
+------------------------------------------------------------
